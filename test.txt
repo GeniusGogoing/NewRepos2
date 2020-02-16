@@ -1,5 +1,5 @@
 这是原始文件
-<<<<<<< HEAD
 user1 dev分支 修改
 user1 dev分支 修改2
 user2 dev 修改
+测试rebase
